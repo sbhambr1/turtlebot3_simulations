@@ -1,3 +1,9 @@
+# Using TurtleBot3 package to run custom Gazebo world simulations.
+## Also, adding setup to play the Evader-Pursuer game.
+
+
+
+
 # TurtleBot3
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
