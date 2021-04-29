@@ -12,7 +12,14 @@ This project was divided into two parts:
 ##### Description: 
 The custom world environment was built using Gazebo, a software primarily used for performing robotic simulation experiments by running algorithms on a simulated robot in a custom environment and obtaining the required observations. For this specific project, the ultimate goal is to be able to simulate a pursuit evasion game in a custom world environment. As a first step, we designed a custom floor plan in the Gazebo environment using the Building Editor. This allowed us to design the outline of the sample one floor house with a living room, a kitchen, a store room and two bedrooms. All the spaces are well connected to each other and have doors leading the robot inside each of the rooms.
 
+##### Screenshots:
+
+![alt text](https://github.com/sbhambr1/turtlebot3_simulations/blob/master/screenshots/Screenshot%20from%202021-03-31%2019-41-43.png?raw=true)
+![alt text](https://github.com/sbhambr1/turtlebot3_simulations/blob/master/screenshots/Screenshot%20from%202021-03-31%2019-42-22.png?raw=true)
+![alt text](https://github.com/sbhambr1/turtlebot3_simulations/blob/master/screenshots/Screenshot%20from%202021-03-31%2019-43-19.png?raw=true)
+
 #### Task 2 Traversing the custom Gazebo world using the Turtlebot3 robot
 
 ##### Description: 
 As the second step, we operated a Turtlebot3 robot in the custom world. This allowed us to understand the motion of the robot in the custom designed environment. The custom world is launched using a launch file and the robot is simulated using a python script where the constructed ROS node published to the node ‘cmd_vel’.
+
