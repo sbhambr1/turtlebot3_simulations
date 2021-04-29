@@ -73,7 +73,9 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/data/
 
 ##### References:
 http://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython
+
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
+
 https://github.com/tensorflow/models/tree/master/research/object_detection
 
 ##### Demonstration Video:
