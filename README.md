@@ -23,3 +23,7 @@ The custom world environment was built using Gazebo, a software primarily used f
 ##### Description: 
 As the second step, we operated a Turtlebot3 robot in the custom world. This allowed us to understand the motion of the robot in the custom designed environment. The custom world is launched using a launch file and the robot is simulated using a python script where the constructed ROS node published to the node ‘cmd_vel’.
 
+##### Robot traversal video:
+
+https://user-images.githubusercontent.com/43840095/116606960-49db8600-a8e6-11eb-91eb-1682b59b8b6c.mp4
+
