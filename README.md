@@ -1,4 +1,4 @@
-# turtlebot3_simulations
+# Pursuit-Evasion Game using Turtlebot3 in ROS
 Simulating TurtleBot3 in custom worlds &amp; playing the evader-pursuer game.
 
 This project was divided into two parts:
